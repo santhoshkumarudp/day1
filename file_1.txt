@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 all is well
-=======
-Hi There,
-
->>>>>>> 5a5601e079887008a27368fe9c1a0e8f6f53b673
